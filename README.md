@@ -30,6 +30,9 @@ This repository contains a comprehensive pipeline for ingesting, cleaning, engin
 5. Start the Streamlit app:
    ```bash
    streamlit run src/app.py
+Result:
+[!Alt_text](https://github.com/Liveinwar/AQI-MODEL-PY-/blob/main/visualization.png)
+
 ## 📊 Results & Insights
 Data Size: 29,531 hourly records covering 6 years (2015–2020) from Beijing’s air quality monitoring stations.
 
